@@ -1,0 +1,101 @@
+ID,Nombre,Edad,Género,Ciudad,Comentario,Categoría del problema,Nivel de urgencia,Fecha del reporte,Acceso a internet,Atención previa del gobierno,Zona rural,Año,Mes,Tiene_Internet,Atencion_Gobierno,Es_Zona_Rural,Categoria_Gemini,Resumen_Gemini
+1905,María,57.0,Masculino,Medellín,no hay suficientes escuelas públicas.,Educación,Urgente,2023-08-21,0,0,0,2023,8,No,No,No,Educación,no hay suficientes escuelas públicas
+4159,Jorge,48.0,Otro,Barranquilla,necesitamos más acceso a internet en la zona.,Salud,Urgente,2024-08-16,1,0,1,2024,8,Si,No,Si,Seguridad,necesitamos más acceso a internet en la zona
+6676,Juan,25.0,Femenino,Bogotá,falta agua potable en varias casas.,Educación,Urgente,2023-02-16,1,0,0,2023,2,Si,No,No,Seguridad,falta agua potable en varias casas
+6631,Sofía,24.0,Otro,Manizales,la contaminación del río está aumentando.,Educación,No urgente,2024-11-03,0,1,0,2024,11,No,Si,No,Medio Ambiente,la contaminación del río está aumentando
+9547,Jorge,72.0,Femenino,Cúcuta,hay problemas con la recolección de basura.,Salud,Urgente,2023-04-28,0,0,1,2023,4,No,No,Si,Medio Ambiente,hay problemas con la recolección de basura
+343,Jorge,65.0,Otro,Bogotá,necesitamos más acceso a internet en la zona.,Medio Ambiente,No urgente,2023-11-03,0,1,1,2023,11,No,Si,Si,Seguridad,necesitamos más acceso a internet en la zona
+2275,Valentina,68.0,Otro,Bogotá,faltan médicos en el centro de salud.,Educación,Urgente,2024-02-27,0,1,1,2024,2,No,Si,Si,Salud,faltan médicos en el centro de salud
+7721,Juan,24.0,Femenino,Barranquilla,faltan médicos en el centro de salud.,Seguridad,Urgente,2023-09-13,1,1,0,2023,9,Si,Si,No,Salud,faltan médicos en el centro de salud
+9221,Ana,31.0,Femenino,Cúcuta,necesitamos más acceso a internet en la zona.,Medio Ambiente,Urgente,2024-02-20,1,1,1,2024,2,Si,Si,Si,Seguridad,necesitamos más acceso a internet en la zona
+1999,Ana,72.0,Femenino,Barranquilla,las calles están muy oscuras y peligrosas.,Salud,Urgente,2024-05-03,1,0,0,2024,5,Si,No,No,Seguridad,las calles están muy oscuras y peligrosas
+4483,Juan,45.0,Femenino,Pereira,hay problemas con la recolección de basura.,Seguridad,No urgente,2024-07-30,0,1,1,2024,7,No,Si,Si,Medio Ambiente,hay problemas con la recolección de basura
+7025,Sofía,66.0,Otro,Cúcuta,hay problemas con la recolección de basura.,Seguridad,Urgente,2023-08-22,1,0,1,2023,8,Si,No,Si,Medio Ambiente,hay problemas con la recolección de basura
+3684,Juan,33.0,,Bogotá,la contaminación del río está aumentando.,Salud,No urgente,2024-09-03,1,1,1,2024,9,Si,Si,Si,Medio Ambiente,la contaminación del río está aumentando
+6852,Camilo,20.0,Otro,Santa Marta,las basuras no se recogen a tiempo.,Seguridad,No urgente,2024-09-17,0,1,1,2024,9,No,Si,Si,Medio Ambiente,las basuras no se recogen a tiempo
+6164,Camilo,18.0,Masculino,Barranquilla,no hay suficientes escuelas públicas.,Seguridad,Urgente,2023-04-24,1,0,1,2023,4,Si,No,Si,Educación,no hay suficientes escuelas públicas
+2381,Ana,77.0,Femenino,Cartagena,la contaminación del río está aumentando.,Seguridad,No urgente,2023-05-28,0,0,1,2023,5,No,No,Si,Medio Ambiente,la contaminación del río está aumentando
+2507,María,44.0,Otro,Cartagena,las calles están muy oscuras y peligrosas.,Salud,No urgente,2023-05-11,0,1,0,2023,5,No,Si,No,Seguridad,las calles están muy oscuras y peligrosas
+5249,Jorge,72.0,Otro,Medellín,no tenemos centros culturales ni bibliotecas.,Medio Ambiente,Urgente,2024-03-23,1,1,0,2024,3,Si,Si,No,Seguridad,no tenemos centros culturales ni bibliotecas
+3152,Jorge,47.0,Femenino,Cartagena,falta agua potable en varias casas.,Educación,No urgente,2023-11-18,0,0,1,2023,11,No,No,Si,Seguridad,falta agua potable en varias casas
+2253,Pedro,60.0,Masculino,Bogotá,las calles están muy oscuras y peligrosas.,Educación,Urgente,2024-06-22,0,1,1,2024,6,No,Si,Si,Seguridad,las calles están muy oscuras y peligrosas
+4540,Sofía,78.0,,Cali,hay problemas con la recolección de basura.,Educación,No urgente,2023-04-29,0,0,0,2023,4,No,No,No,Medio Ambiente,hay problemas con la recolección de basura
+9153,Juan,59.0,Masculino,Cúcuta,falta agua potable en varias casas.,Medio Ambiente,No urgente,2024-06-24,1,1,0,2024,6,Si,Si,No,Seguridad,falta agua potable en varias casas
+7864,Carlos,68.0,Otro,Bucaramanga,no hay suficientes escuelas públicas.,Educación,No urgente,2023-06-08,1,0,1,2023,6,Si,No,Si,Educación,no hay suficientes escuelas públicas
+2232,María,58.0,Otro,Santa Marta,no hay suficientes escuelas públicas.,Medio Ambiente,Urgente,2024-06-18,1,1,1,2024,6,Si,Si,Si,Educación,no hay suficientes escuelas públicas
+1061,Jorge,76.0,,Barranquilla,la contaminación del río está aumentando.,Seguridad,Urgente,2023-07-10,1,1,1,2023,7,Si,Si,Si,Medio Ambiente,la contaminación del río está aumentando
+1703,Juan,39.0,Otro,Cartagena,la contaminación del río está aumentando.,Educación,Urgente,2024-11-05,0,1,1,2024,11,No,Si,Si,Medio Ambiente,la contaminación del río está aumentando
+1028,Camilo,60.0,Otro,Medellín,hay problemas con la recolección de basura.,Educación,No urgente,2023-12-16,1,1,0,2023,12,Si,Si,No,Medio Ambiente,hay problemas con la recolección de basura
+628,Valentina,49.0,Otro,Cúcuta,no tenemos centros culturales ni bibliotecas.,Seguridad,No urgente,2023-03-12,0,0,0,2023,3,No,No,No,Seguridad,no tenemos centros culturales ni bibliotecas
+6500,Sofía,59.0,Otro,Bucaramanga,no hay suficientes escuelas públicas.,Salud,No urgente,2024-05-05,0,1,0,2024,5,No,Si,No,Educación,no hay suficientes escuelas públicas
+6839,Jorge,20.0,Femenino,Pereira,faltan médicos en el centro de salud.,Seguridad,Urgente,2024-06-22,0,0,1,2024,6,No,No,Si,Salud,faltan médicos en el centro de salud
+962,Valentina,17.0,Masculino,Manizales,las basuras no se recogen a tiempo.,Salud,No urgente,2023-07-24,1,0,0,2023,7,Si,No,No,Medio Ambiente,las basuras no se recogen a tiempo
+3704,María,26.0,Masculino,Medellín,las basuras no se recogen a tiempo.,Salud,Urgente,2023-03-17,0,0,0,2023,3,No,No,No,Medio Ambiente,las basuras no se recogen a tiempo
+9142,Valentina,51.0,Masculino,Pereira,no tenemos centros culturales ni bibliotecas.,Medio Ambiente,Urgente,2024-05-27,1,0,0,2024,5,Si,No,No,Seguridad,no tenemos centros culturales ni bibliotecas
+6073,Jorge,37.0,Otro,Bucaramanga,falta agua potable en varias casas.,Educación,No urgente,2023-11-30,1,1,0,2023,11,Si,Si,No,Seguridad,falta agua potable en varias casas
+8894,Juan,75.0,Otro,Bogotá,faltan médicos en el centro de salud.,Educación,No urgente,2024-05-01,1,0,0,2024,5,Si,No,No,Salud,faltan médicos en el centro de salud
+9914,Valentina,46.0,,Santa Marta,no tenemos centros culturales ni bibliotecas.,Seguridad,Urgente,2023-10-18,1,0,0,2023,10,Si,No,No,Seguridad,no tenemos centros culturales ni bibliotecas
+3193,Jorge,38.0,Femenino,Barranquilla,hay problemas con la recolección de basura.,Medio Ambiente,Urgente,2023-10-30,1,1,1,2023,10,Si,Si,Si,Medio Ambiente,hay problemas con la recolección de basura
+7201,Camilo,33.0,Otro,Medellín,faltan médicos en el centro de salud.,Medio Ambiente,No urgente,2024-05-06,1,1,0,2024,5,Si,Si,No,Salud,faltan médicos en el centro de salud
+7042,Valentina,53.0,Otro,Cúcuta,no hay suficientes escuelas públicas.,Seguridad,Urgente,2024-08-06,1,0,0,2024,8,Si,No,No,Educación,no hay suficientes escuelas públicas
+3533,Pedro,20.0,Otro,Manizales,las basuras no se recogen a tiempo.,Educación,Urgente,2024-02-04,0,0,0,2024,2,No,No,No,Medio Ambiente,las basuras no se recogen a tiempo
+7037,Juan,48.0,Femenino,Cartagena,las calles están muy oscuras y peligrosas.,Medio Ambiente,Urgente,2024-10-01,1,0,0,2024,10,Si,No,No,Seguridad,las calles están muy oscuras y peligrosas
+618,Camilo,47.0,Masculino,Santa Marta,faltan médicos en el centro de salud.,Educación,No urgente,2024-11-25,1,1,0,2024,11,Si,Si,No,Salud,faltan médicos en el centro de salud
+487,Valentina,49.0,Masculino,Pereira,las basuras no se recogen a tiempo.,Medio Ambiente,No urgente,2024-11-13,0,0,1,2024,11,No,No,Si,Medio Ambiente,las basuras no se recogen a tiempo
+5794,Juan,60.0,Masculino,Pereira,faltan médicos en el centro de salud.,Seguridad,No urgente,2023-11-28,1,1,0,2023,11,Si,Si,No,Salud,faltan médicos en el centro de salud
+138,Carlos,28.0,Masculino,Cúcuta,no tenemos centros culturales ni bibliotecas.,Salud,Urgente,2023-08-03,1,0,1,2023,8,Si,No,Si,Seguridad,no tenemos centros culturales ni bibliotecas
+8531,Sofía,48.0,,Manizales,faltan médicos en el centro de salud.,Medio Ambiente,No urgente,2024-09-19,1,1,0,2024,9,Si,Si,No,Salud,faltan médicos en el centro de salud
+660,Camilo,76.0,Otro,Santa Marta,no tenemos centros culturales ni bibliotecas.,Medio Ambiente,Urgente,2024-09-18,1,1,0,2024,9,Si,Si,No,Seguridad,no tenemos centros culturales ni bibliotecas
+6875,Valentina,41.0,Femenino,Bogotá,la contaminación del río está aumentando.,Medio Ambiente,Urgente,2024-02-08,0,1,0,2024,2,No,Si,No,Medio Ambiente,la contaminación del río está aumentando
+4169,Jorge,76.0,Femenino,Manizales,las basuras no se recogen a tiempo.,Educación,No urgente,2023-02-01,0,0,0,2023,2,No,No,No,Medio Ambiente,las basuras no se recogen a tiempo
+7597,Carlos,48.0,Femenino,Pereira,no hay suficientes escuelas públicas.,Medio Ambiente,No urgente,2023-02-21,1,1,1,2023,2,Si,Si,Si,Educación,no hay suficientes escuelas públicas
+1539,María,55.0,Otro,Santa Marta,hay problemas con la recolección de basura.,Medio Ambiente,No urgente,2024-07-28,1,1,0,2024,7,Si,Si,No,Medio Ambiente,hay problemas con la recolección de basura
+7553,Pedro,39.0,Otro,Bogotá,falta agua potable en varias casas.,Seguridad,Urgente,2024-11-23,0,0,0,2024,11,No,No,No,Seguridad,falta agua potable en varias casas
+2660,Juan,30.0,Otro,Pereira,las basuras no se recogen a tiempo.,Medio Ambiente,Urgente,2024-03-24,1,0,0,2024,3,Si,No,No,Medio Ambiente,las basuras no se recogen a tiempo
+830,Pedro,15.0,Otro,Barranquilla,no hay suficientes escuelas públicas.,Medio Ambiente,Urgente,2023-12-17,0,0,1,2023,12,No,No,Si,Educación,no hay suficientes escuelas públicas
+6621,Jorge,36.0,Masculino,Bucaramanga,hay problemas con la recolección de basura.,Medio Ambiente,Urgente,2023-05-15,1,1,1,2023,5,Si,Si,Si,Medio Ambiente,hay problemas con la recolección de basura
+1841,Camilo,35.0,Femenino,Bucaramanga,la contaminación del río está aumentando.,Seguridad,Urgente,2023-08-21,1,0,1,2023,8,Si,No,Si,Medio Ambiente,la contaminación del río está aumentando
+2404,Pedro,48.0,Masculino,Bogotá,hay problemas con la recolección de basura.,Educación,No urgente,2023-04-14,0,1,0,2023,4,No,Si,No,Medio Ambiente,hay problemas con la recolección de basura
+3432,Valentina,45.0,Otro,Pereira,las calles están muy oscuras y peligrosas.,Medio Ambiente,Urgente,2024-08-18,1,1,0,2024,8,Si,Si,No,Seguridad,las calles están muy oscuras y peligrosas
+4333,Laura,53.0,Masculino,Medellín,la contaminación del río está aumentando.,Seguridad,Urgente,2024-11-21,0,0,1,2024,11,No,No,Si,Medio Ambiente,la contaminación del río está aumentando
+6887,Camilo,77.0,Otro,Medellín,las basuras no se recogen a tiempo.,Salud,No urgente,2024-11-05,1,0,0,2024,11,Si,No,No,Medio Ambiente,las basuras no se recogen a tiempo
+8906,Valentina,36.0,Femenino,Barranquilla,la contaminación del río está aumentando.,Seguridad,Urgente,2023-09-25,1,1,0,2023,9,Si,Si,No,Medio Ambiente,la contaminación del río está aumentando
+1098,Sofía,70.0,Masculino,Bucaramanga,falta agua potable en varias casas.,Educación,Urgente,2024-01-18,0,0,0,2024,1,No,No,No,Seguridad,falta agua potable en varias casas
+755,Ana,80.0,Otro,Medellín,no tenemos centros culturales ni bibliotecas.,Seguridad,Urgente,2023-07-11,0,0,0,2023,7,No,No,No,Seguridad,no tenemos centros culturales ni bibliotecas
+795,Laura,73.0,Otro,Medellín,necesitamos más acceso a internet en la zona.,Medio Ambiente,Urgente,2023-11-01,0,1,1,2023,11,No,Si,Si,Seguridad,necesitamos más acceso a internet en la zona
+6212,Jorge,49.0,Otro,Barranquilla,no hay suficientes escuelas públicas.,Salud,No urgente,2024-07-29,1,1,1,2024,7,Si,Si,Si,Educación,no hay suficientes escuelas públicas
+4513,Carlos,53.0,Femenino,Cartagena,necesitamos más acceso a internet en la zona.,Salud,Urgente,2024-10-03,0,1,1,2024,10,No,Si,Si,Seguridad,necesitamos más acceso a internet en la zona
+2870,Pedro,58.0,Masculino,Manizales,hay problemas con la recolección de basura.,Seguridad,No urgente,2023-12-13,1,0,1,2023,12,Si,No,Si,Medio Ambiente,hay problemas con la recolección de basura
+262,María,36.0,Otro,Santa Marta,faltan médicos en el centro de salud.,Seguridad,Urgente,2024-05-08,0,1,0,2024,5,No,Si,No,Salud,faltan médicos en el centro de salud
+5312,Ana,64.0,Otro,Bogotá,la contaminación del río está aumentando.,Educación,No urgente,2023-05-01,0,1,0,2023,5,No,Si,No,Medio Ambiente,la contaminación del río está aumentando
+8406,Juan,30.0,Otro,Bogotá,no tenemos centros culturales ni bibliotecas.,Educación,Urgente,2023-05-01,1,1,1,2023,5,Si,Si,Si,Seguridad,no tenemos centros culturales ni bibliotecas
+5277,Ana,65.0,Masculino,Bogotá,la contaminación del río está aumentando.,Salud,Urgente,2023-09-19,1,0,1,2023,9,Si,No,Si,Medio Ambiente,la contaminación del río está aumentando
+4006,Pedro,28.0,Masculino,Santa Marta,no hay suficientes escuelas públicas.,Educación,No urgente,2023-12-19,0,0,1,2023,12,No,No,Si,Educación,no hay suficientes escuelas públicas
+6914,Ana,69.0,Femenino,Bogotá,necesitamos más acceso a internet en la zona.,Salud,No urgente,2024-08-08,0,0,1,2024,8,No,No,Si,Seguridad,necesitamos más acceso a internet en la zona
+1218,María,56.0,Otro,Cúcuta,las calles están muy oscuras y peligrosas.,Salud,No urgente,2024-01-17,1,1,1,2024,1,Si,Si,Si,Seguridad,las calles están muy oscuras y peligrosas
+9506,Valentina,38.0,Otro,Bucaramanga,faltan médicos en el centro de salud.,Medio Ambiente,Urgente,2023-09-27,1,0,0,2023,9,Si,No,No,Salud,faltan médicos en el centro de salud
+5104,Sofía,39.0,Masculino,Cartagena,queremos más presencia policial.,Salud,No urgente,2024-08-14,0,1,1,2024,8,No,Si,Si,Seguridad,queremos más presencia policial
+9857,Laura,51.0,Femenino,Cartagena,hay problemas con la recolección de basura.,Educación,Urgente,2024-08-10,1,0,0,2024,8,Si,No,No,Medio Ambiente,hay problemas con la recolección de basura
+8082,Juan,60.0,Femenino,Pereira,queremos más presencia policial.,Medio Ambiente,No urgente,2023-07-06,1,1,1,2023,7,Si,Si,Si,Seguridad,queremos más presencia policial
+3701,Ana,46.0,Femenino,Bucaramanga,no hay suficientes escuelas públicas.,Medio Ambiente,Urgente,2024-08-28,0,1,1,2024,8,No,Si,Si,Educación,no hay suficientes escuelas públicas
+7172,Carlos,41.0,Otro,Bogotá,necesitamos más acceso a internet en la zona.,Salud,Urgente,2023-03-07,1,1,0,2023,3,Si,Si,No,Seguridad,necesitamos más acceso a internet en la zona
+3872,Valentina,58.0,Masculino,Cartagena,queremos más presencia policial.,Educación,Urgente,2023-09-26,1,0,0,2023,9,Si,No,No,Seguridad,queremos más presencia policial
+340,Jorge,48.0,Femenino,Cartagena,faltan médicos en el centro de salud.,Medio Ambiente,Urgente,2023-05-02,0,0,1,2023,5,No,No,Si,Salud,faltan médicos en el centro de salud
+9121,Sofía,45.0,Femenino,Bucaramanga,hay problemas con la recolección de basura.,Salud,No urgente,2023-12-14,0,0,1,2023,12,No,No,Si,Medio Ambiente,hay problemas con la recolección de basura
+6384,Jorge,27.0,Femenino,Bogotá,falta agua potable en varias casas.,Medio Ambiente,No urgente,2023-04-17,1,0,0,2023,4,Si,No,No,Seguridad,falta agua potable en varias casas
+5282,Laura,68.0,Otro,Cartagena,faltan médicos en el centro de salud.,Educación,Urgente,2023-03-20,0,1,1,2023,3,No,Si,Si,Salud,faltan médicos en el centro de salud
+9618,Pedro,34.0,Femenino,Manizales,las basuras no se recogen a tiempo.,Educación,Urgente,2024-05-25,1,1,0,2024,5,Si,Si,No,Medio Ambiente,las basuras no se recogen a tiempo
+2309,Sofía,74.0,Masculino,Bogotá,faltan médicos en el centro de salud.,Salud,No urgente,2023-04-17,1,0,1,2023,4,Si,No,Si,Salud,faltan médicos en el centro de salud
+4612,Sofía,58.0,Femenino,Medellín,no tenemos centros culturales ni bibliotecas.,Salud,No urgente,2024-02-20,0,0,1,2024,2,No,No,Si,Seguridad,no tenemos centros culturales ni bibliotecas
+3846,Jorge,48.0,Femenino,Cúcuta,faltan médicos en el centro de salud.,Salud,Urgente,2024-11-02,0,1,1,2024,11,No,Si,Si,Salud,faltan médicos en el centro de salud
+8814,Carlos,48.0,Masculino,Cali,queremos más presencia policial.,Seguridad,Urgente,2023-05-19,0,1,0,2023,5,No,Si,No,Seguridad,queremos más presencia policial
+1154,Pedro,48.0,Masculino,Cúcuta,no tenemos centros culturales ni bibliotecas.,Seguridad,Urgente,2024-11-18,0,0,1,2024,11,No,No,Si,Seguridad,no tenemos centros culturales ni bibliotecas
+5769,Carlos,71.0,Otro,Bucaramanga,no tenemos centros culturales ni bibliotecas.,Educación,No urgente,2023-07-16,0,0,0,2023,7,No,No,No,Seguridad,no tenemos centros culturales ni bibliotecas
+2457,Pedro,26.0,Masculino,Medellín,hay problemas con la recolección de basura.,Medio Ambiente,No urgente,2023-06-28,0,1,1,2023,6,No,Si,Si,Medio Ambiente,hay problemas con la recolección de basura
+5983,María,25.0,Otro,Cúcuta,las calles están muy oscuras y peligrosas.,Educación,Urgente,2023-10-20,1,1,0,2023,10,Si,Si,No,Seguridad,las calles están muy oscuras y peligrosas
+1210,Juan,28.0,Otro,Cali,las basuras no se recogen a tiempo.,Educación,No urgente,2024-07-14,1,1,0,2024,7,Si,Si,No,Medio Ambiente,las basuras no se recogen a tiempo
+7224,Pedro,70.0,Femenino,Manizales,queremos más presencia policial.,Educación,Urgente,2023-12-19,1,0,1,2023,12,Si,No,Si,Seguridad,queremos más presencia policial
+7927,Pedro,37.0,Femenino,Cartagena,no tenemos centros culturales ni bibliotecas.,Medio Ambiente,No urgente,2023-10-18,0,1,0,2023,10,No,Si,No,Seguridad,no tenemos centros culturales ni bibliotecas
+6858,Sofía,73.0,Masculino,Cali,la contaminación del río está aumentando.,Medio Ambiente,Urgente,2024-07-25,1,1,1,2024,7,Si,Si,Si,Medio Ambiente,la contaminación del río está aumentando
+5713,Camilo,15.0,Otro,Santa Marta,hay problemas con la recolección de basura.,Medio Ambiente,Urgente,2024-04-19,1,1,1,2024,4,Si,Si,Si,Medio Ambiente,hay problemas con la recolección de basura
+8057,Pedro,34.0,Femenino,Cartagena,faltan médicos en el centro de salud.,Seguridad,Urgente,2023-08-15,0,1,0,2023,8,No,Si,No,Salud,faltan médicos en el centro de salud

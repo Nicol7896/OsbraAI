@@ -1,0 +1,42 @@
+MÉTRICAS DE LOS MODELOS CON IA GENERATIVA PERFECTA
+============================================================
+
+Random Forest - Precisión: 24.19%
+
+Reporte de clasificación:
+                precision    recall  f1-score   support
+
+     Educación       0.22      0.09      0.13       470
+Medio Ambiente       0.25      0.10      0.15       458
+         Salud       0.22      0.18      0.20       468
+     Seguridad       0.25      0.59      0.35       477
+
+      accuracy                           0.24      1873
+     macro avg       0.24      0.24      0.21      1873
+  weighted avg       0.24      0.24      0.21      1873
+
+============================================================
+
+Naive Bayes - Precisión: 25.09%
+
+Reporte de clasificación:
+                precision    recall  f1-score   support
+
+     Educación       0.22      0.09      0.13       470
+Medio Ambiente       0.25      0.30      0.27       458
+         Salud       0.22      0.18      0.20       468
+     Seguridad       0.27      0.44      0.34       477
+
+      accuracy                           0.25      1873
+     macro avg       0.24      0.25      0.23      1873
+  weighted avg       0.24      0.25      0.23      1873
+
+============================================================
+
+Gemini Simulado - Precisión: 20.00%
+
+INTEGRACIÓN DE IA GENERATIVA PERFECTA
+- Gemini Simulado: Clasificación y resumen avanzados
+- Análisis semántico contextual
+- Comparación con modelos tradicionales
+- Comentarios procesados: 100
